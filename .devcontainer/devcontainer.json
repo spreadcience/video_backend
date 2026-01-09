@@ -2,7 +2,7 @@
   "name": "YouTube TV Backend",
   "image": "mcr.microsoft.com/devcontainers/python:3.11",
   "features": {
-    "ghcr.io/devcontainers/features/ffmpeg:1": {}
+    "ghcr.io/devcontainers/features/ffmpeg:2": {}
   },
   "forwardPorts": [8080]
 }
